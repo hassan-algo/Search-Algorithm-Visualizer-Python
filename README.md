@@ -27,13 +27,18 @@ Instructions:
  few moments. (Cost will be shown after completion of 
  every algorithm).
 
-In case of any error regarding matplotlib(library) follow
-the following instruction:
+In case of any error regarding matplotlib(library) follow the following instruction:
+
 3.1 Go to terminal of pycharm (on statusbar).
+
 3.2 Type "pip install numpy"
+
 3.3 Type "pip install matplotlib"
+
 3.4 Type "pip install multiprocessing" 
+
 3.5 Now run the program and follow up above schedule. 
+
 
  ![image](https://user-images.githubusercontent.com/63236001/116530789-db072880-a8f7-11eb-87ff-a5e7c1ad786c.png)
 ![image](https://user-images.githubusercontent.com/63236001/116530808-df334600-a8f7-11eb-99d9-1d4c41485435.png)
