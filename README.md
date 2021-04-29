@@ -3,8 +3,11 @@ The obstacles are filled rectangles of unknown dimensions and can be found anywh
 
 FEATURES:
 •	2D- Array (matrix) used to represent nodes of maize.
+
 •	Code is in python language. 
+
 •	Graphical Interface (matplotlib) to visualize working of all three algorithms which further leads to final path and cost. 
+
 •	Multiprocessing and threading is used to visualize working of algorithms parallel.
 
 ALGORITHMS IMPLEMENTED:
@@ -14,7 +17,7 @@ ALGORITHMS IMPLEMENTED:
 
 Instructions:
 1. Open main.py with pycharm. 
-2. If there is "<No interpreter>" on bottom right of pycharm 
+2. If there is " <No interpreter> " on bottom right of pycharm 
    window(status bar) , click on it and select python 3.9
 3. Run the program (main.py).
 4. Enter speed (suggested 8.5) for graphics. 
@@ -35,7 +38,12 @@ the following instruction:
 ![image](https://user-images.githubusercontent.com/63236001/116530808-df334600-a8f7-11eb-99d9-1d4c41485435.png)
 
 •	Green color -> Final path nodes.
-•	Pink color ->Start and goal
-•	Black color -> Obstacles
+
+•	Pink color ->Start and goal.
+
+•	Black color -> Obstacles.
+
 •	Blue color -> visited.
-•	Purple color -> Expected to visit
+
+•	Purple color -> Expected to visit.
+
