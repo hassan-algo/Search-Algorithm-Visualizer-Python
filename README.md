@@ -1,5 +1,6 @@
 # Search-Algorithm-Visualizer-Python
 I made it in one siting, it could be better if I had more time.
+
 ALGORITHMS IMPLEMENTED:
 1. Greedy Best First Search 
 2. A* Search
